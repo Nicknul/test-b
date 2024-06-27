@@ -1,0 +1,18 @@
+const string = {
+  main: `<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MAIN</title>
+  </head>
+  <body>
+  <div></div>
+  <button>오늘의 점심 메뉴는?</button>
+  <script src="lunch.js"></script>
+  </body>
+</html>
+`,
+};
+
+module.exports = string;
