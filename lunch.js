@@ -1,7 +1,24 @@
 const lunchBu = document.querySelector('button');
 const lunchDiv = document.querySelector('div');
 
-const lunch = ['가츠비', '쌈밥', '짬뽕지존', '버거킹', '쭈꾸미'];
+const lunch = [
+  '가츠비',
+  '쌈채우리',
+  '짬뽕지존',
+  '버거킹',
+  '손의손',
+  '국수나무',
+  '김가네',
+  '대박분식',
+  '수통골촌두부',
+  '돈가츠모다',
+  '우리손칼국수',
+  '인생곰탕',
+  '도군샤브',
+  '도군함박',
+  '안동본가국밥',
+  '묵은정',
+];
 
 const names = ['김정수', '이연승', '정호연'];
 
